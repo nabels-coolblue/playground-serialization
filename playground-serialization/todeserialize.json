@@ -1,0 +1,96 @@
+﻿{
+    "Product": {
+        "Id": 123456,
+        "Name": "Adapter"
+    },
+    "SupplierSales": [
+        {
+            "Supplier": {
+                "Id": 4512,
+                "Name": "Supplier A"
+            },
+            "DailySales": [
+                {
+                    "Day": "2017-11-10T00:00:00",
+                    "Quantity": 6
+                },
+                {
+                    "Day": "2017-11-13T00:00:00",
+                    "Quantity": 4
+                },
+                {
+                    "Day": "2017-11-09T00:00:00",
+                    "Quantity": 4
+                },
+                {
+                    "Day": "2017-11-11T00:00:00",
+                    "Quantity": 2
+                },
+                {
+                    "Day": "2017-11-12T00:00:00",
+                    "Quantity": 7
+                },
+                {
+                    "Day": "2017-11-14T00:00:00",
+                    "Quantity": 3
+                },
+                {
+                    "Day": "2017-11-08T00:00:00",
+                    "Quantity": 7
+                }
+            ]
+        },
+        {
+            "Supplier": {
+                "Id": 4132,
+                "Name": "Supplier B"
+            },
+            "DailySales": [
+                {
+                    "Day": "2017-11-08T00:00:00",
+                    "Quantity": 1
+                },
+                {
+                    "Day": "2017-11-10T00:00:00",
+                    "Quantity": 3
+                },
+                {
+                    "Day": "2017-11-13T00:00:00",
+                    "Quantity": 1
+                },
+                {
+                    "Day": "2017-11-14T00:00:00",
+                    "Quantity": 3
+                },
+                {
+                    "Day": "2017-11-12T00:00:00",
+                    "Quantity": 4
+                }
+            ]
+        },
+        {
+            "Supplier": {
+                "Id": 3222,
+                "Name": "Supplier D"
+            },
+            "DailySales": [
+                {
+                    "Day": "2017-11-09T00:00:00",
+                    "Quantity": -1
+                }
+            ]
+        },
+        {
+            "Supplier": {
+                "Id": 1233,
+                "Name": "Supplier C"
+            },
+            "DailySales": [
+                {
+                    "Day": "2017-11-10T00:00:00",
+                    "Quantity": 1
+                }
+            ]
+        }
+    ]
+}
